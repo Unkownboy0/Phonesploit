@@ -5,3 +5,10 @@ cd Phonesploit
 pip install -r requirments.txt
 
 python Phonesploit.py
+
+
+
+
+adb and scrcpy
+https://github.com/Genymobile/scrcpy
+
