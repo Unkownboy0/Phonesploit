@@ -12,3 +12,9 @@ python Phonesploit.py
 adb and scrcpy
 https://github.com/Genymobile/scrcpy
 
+
+
+
+this is an mobile hacking and recovery framework 
+
+it's easy to use
